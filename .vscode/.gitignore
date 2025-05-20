@@ -1,0 +1,21 @@
+# Carpetas de compilación
+/target
+/.mvn
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Configuración de IDEs
+/.idea
+*.iml
+/.classpath
+/.project
+/.settings
+/.vscode
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
