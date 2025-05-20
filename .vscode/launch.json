@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ServicioFonoApplication",
+            "request": "launch",
+            "mainClass": "com.servicio_fono.ServicioFonoApplication",
+            "projectName": "servicio-fono"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-ServicioPersonaApplication<servicio-persona>",
             "request": "launch",
             "cwd": "${workspaceFolder}",

@@ -3,10 +3,10 @@ package com.servicio_persona.models;
 import jakarta.persistence.*;
 import lombok.*;
 
-import java.util.List;
+//import java.util.List;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
-import com.fasterxml.jackson.annotation.JsonManagedReference;
+//import com.fasterxml.jackson.annotation.JsonIgnore;
+//import com.fasterxml.jackson.annotation.JsonManagedReference;
 @Entity
 @Table(name = "persona")
 @Data
